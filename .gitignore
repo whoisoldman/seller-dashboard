@@ -1,3 +1,12 @@
+# my files
+#
+
+# my folders
+zzz/
+
+# avito ignore
+/node_modules/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
